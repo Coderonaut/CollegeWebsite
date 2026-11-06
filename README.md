@@ -45,7 +45,7 @@ college_website/
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Coderonaut08spacesci/CollegeWebsite.git](https://github.com/Coderonaut08spacesci/CollegeWebsite.git)
+git clone [https://github.com/Coderonaut/CollegeWebsite.git](https://github.com/Coderonaut/CollegeWebsite.git)
 cd CollegeWebsite
 ```
 
